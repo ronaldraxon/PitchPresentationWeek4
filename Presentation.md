@@ -1,7 +1,7 @@
 Presentation
 ========================================================
-author: 
-date: 
+author: Ronald Rodriguez
+date: 6 de Octubre de 2017
 autosize: true
 
 First Slide
